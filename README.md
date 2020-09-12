@@ -16,7 +16,7 @@ TRAVAUX PRATIQUE : Gestion des savoirs inutiles
 - JavaScript
 
 ### Détails | Commentaires
-- This project has been freely made from scratch following global instructions.  
+- Ce projet a été construit à partir de zéro en suivant des instructions spécifiques.
 
 ### Statut
 Evolution 3 - Terminée
