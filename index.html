@@ -1,0 +1,36 @@
+<!--Il faudra donner des indices : passer des paramètres sur le click...-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Les savoirs inutiles</title>
+    <link rel="stylesheet" type="text/css" href="styles/style.css">
+</head>
+<body>
+    <div id="savoirs">
+        <div>
+            <label for="savoir">Savoir :</label><input type="text" id="savoir">
+        </div>
+        <div>
+            <label for="auteur">Auteur :</label><input type="text" id="auteur">
+        </div>
+        <div>
+            <label for="date">Date :</label><input type="date" id="date">
+        </div>
+        <div>
+            <button id="ajouter">Ajouter</button>
+            <button class="sort" id="sort-auteur">Trier par auteur [A-Z]</button>
+            <button class="sort"  id="sort-auteur-reverse">Trier par auteur [Z-A]</button>
+            <button class="sort"  id="sort-date">Trier par date croissante</button>
+            <button class="sort"  id="sort-date-reverse">Trier par date décroissante</button>
+        </div>
+    </div>
+    <div id="resultats">
+        <ol id="liste">
+        </ol>
+    </div>
+    <script src="scripts/bo.js"></script>
+    <script src="scripts/service.js"></script>
+    <script src="scripts/controller.js"></script>
+</body>
+</html>
