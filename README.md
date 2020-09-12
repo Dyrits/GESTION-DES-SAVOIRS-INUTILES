@@ -19,7 +19,8 @@ TRAVAUX PRATIQUE : Gestion des savoirs inutiles
 - Ce projet a été construit à partir de zéro en suivant des instructions spécifiques.
 
 ### Statut
-Evolution 3 - Terminée
+Evolution 1 - Terminée
+Evolution 2 - Terminée
 
 #### Dernière mise à jour
 12/09/2020
