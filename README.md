@@ -7,9 +7,9 @@ ENI | LE DÉVELOPPEMENT FRONT END AVEC JAVASCRIPT
 TRAVAUX PRATIQUE : Gestion des savoirs inutiles
 
 ### Énoncés (par l'ENI)
-[Module 2 (1)](https://github.com/Dyrits/MY-MUSIC/blob/master/Module%2007%20-%20Enonc%C3%A9%20TP%20-%20Application%20My%20Music.pdf)  
-[Module 3 (2)](https://github.com/Dyrits/MY-MUSIC/blob/master/Module%2008%20-%20Enonc%C3%A9%20TP%2002%20-%20Fonctionnalit%C3%A9s%20JavaScript%20sur%20My%20Music.pdf)  
-[Module 3 (3)](https://github.com/Dyrits/MY-MUSIC/blob/master/Module%2008%20-%20Enonc%C3%A9%20TP%2002%20-%20Fonctionnalit%C3%A9s%20JavaScript%20sur%20My%20Music.pdf)
+[Module 2 - Le contrôle du DOM par le JavaScript](https://github.com/Dyrits/GESTION-DES-SAVOIRS-INUTILES/blob/master/Module%2002%20-%20%C3%89nonc%C3%A9%20TP%2001%20-%20G%C3%A9rer%20des%20savoirs%20inutiles.pdf)  
+[Module 3 - Développer des librairies en JavaScript](https://github.com/Dyrits/GESTION-DES-SAVOIRS-INUTILES/blob/master/Module%2003%20-%20%C3%89nonc%C3%A9%20TP%2001%20-%20Gestion%20des%20savoirs%20inutiles%20(%C3%A9volution%201).pdf)  
+[Module 3 - Développer des librairies en JavaScript](https://github.com/Dyrits/GESTION-DES-SAVOIRS-INUTILES/blob/master/Module%2003%20-%20%C3%89nonc%C3%A9%20TP%2002%20-%20Gestion%20des%20savoirs%20inutiles%20(%C3%A9volution%202).pdf)
 
 ### Technologies
 - HTML
@@ -23,4 +23,4 @@ Evolution 3 - Terminée
 
 #### Dernière mise à jour
 12/09/2020
-(README |12/09/2020)
+(README |12/09/2020) 
