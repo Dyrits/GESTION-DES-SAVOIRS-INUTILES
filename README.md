@@ -1,27 +1,33 @@
 # Gestion des savoirs inutiles
 
-# A propos de ce projet
+A front-end JavaScript exercise ("useless knowledge management"), from the ENI course "Le développement Front End avec JavaScript".
 
-### Cursus
-ENI | LE DÉVELOPPEMENT FRONT END AVEC JAVASCRIPT
-TRAVAUX PRATIQUE : Gestion des savoirs inutiles
+## About The Project
 
-### Énoncés (par l'ENI)
-[Module 2 - Le contrôle du DOM par le JavaScript](https://github.com/Dyrits/GESTION-DES-SAVOIRS-INUTILES/blob/master/Module%2002%20-%20%C3%89nonc%C3%A9%20TP%2001%20-%20G%C3%A9rer%20des%20savoirs%20inutiles.pdf)  
-[Module 3 - Développer des librairies en JavaScript](https://github.com/Dyrits/GESTION-DES-SAVOIRS-INUTILES/blob/master/Module%2003%20-%20%C3%89nonc%C3%A9%20TP%2001%20-%20Gestion%20des%20savoirs%20inutiles%20(%C3%A9volution%201).pdf)  
-[Module 3 - Développer des librairies en JavaScript](https://github.com/Dyrits/GESTION-DES-SAVOIRS-INUTILES/blob/master/Module%2003%20-%20%C3%89nonc%C3%A9%20TP%2002%20-%20Gestion%20des%20savoirs%20inutiles%20(%C3%A9volution%202).pdf)
+These practical exercises cover DOM manipulation with JavaScript and building JavaScript libraries. The original assignments (in French, provided by ENI) are preserved in this repository:
 
-### Technologies
+- [Module 2 - Le contrôle du DOM par le JavaScript](Module%2002%20-%20%C3%89nonc%C3%A9%20TP%2001%20-%20G%C3%A9rer%20des%20savoirs%20inutiles.pdf)
+- [Module 3 - Développer des librairies en JavaScript (évolution 1)](Module%2003%20-%20%C3%89nonc%C3%A9%20TP%2001%20-%20Gestion%20des%20savoirs%20inutiles%20(%C3%A9volution%201).pdf)
+- [Module 3 - Développer des librairies en JavaScript (évolution 2)](Module%2003%20-%20%C3%89nonc%C3%A9%20TP%2002%20-%20Gestion%20des%20savoirs%20inutiles%20(%C3%A9volution%202).pdf)
+
+The original README (in French) noted that the project was built from scratch following specific instructions.
+
+## Built With
+
 - HTML
 - JavaScript
 
-### Détails | Commentaires
-- Ce projet a été construit à partir de zéro en suivant des instructions spécifiques.
+## Status
 
-### Statut
-Evolution 1 - Terminée
-Evolution 2 - Terminée
+Per the original README:
 
-#### Dernière mise à jour
-12/09/2020
-(README |12/09/2020) 
+- Evolution 1 - Completed
+- Evolution 2 - Completed
+
+## License
+
+No license file is present in this repository.
+
+## Contact
+
+Dylan J. Gerrits - [GitHub](https://github.com/Dyrits)
